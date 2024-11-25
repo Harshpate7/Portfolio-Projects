@@ -14,17 +14,17 @@ Welcome to my portfolio repository! Here you'll find a collection of my data ana
 2. **Zomato EDA (Exploratory Data Analysis)**  
    - **Description**: Conducted EDA on restaurant data, uncovering market trends and customer preferences.  
    - **Tools Used**: Python (Pandas, NumPy, Seaborn, Matplotlib)  
-   - [View Project](./Zomato-EDA-/)
+   - [View Project](https://github.com/Harshpate7/Zomato-EDA-)
 
 3. **Gold Price Analysis (2013–2023)**  
    - **Description**: Explored historical gold price data to identify trends, returns, and market volatility.  
    - **Tools Used**: Python (Pandas, Matplotlib, Plotly)  
-   - [View Project](./Time-series-Analysis/)
+   - [View Project](https://github.com/Harshpate7/Time-series-Analysis)
 
 4. **User Behavior Analysis**  
    - **Description**: Analyzed user purchase behavior and demographics to uncover insights for strategic planning.  
    - **Tools Used**: SQL, Tableau  
-   - [View Project](./Customer-behaviour-analysis/)
+   - [View Project](https://github.com/Harshpate7/Customer-behaviour-analysis)
 
 ---
 
