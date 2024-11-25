@@ -9,7 +9,7 @@ Welcome to my portfolio repository! Here you'll find a collection of my data ana
 1. **COVID-19 Data Analysis and Visualization**  
    - **Description**: Analyzed global COVID-19 data to derive insights on infection rates, fatalities, and vaccination trends.
    - **Tools Used**: SQL, Tableau  
-   - [View Project](./Covid_Data_Anaylsis/)
+   - [View Project]([./Covid_Data_Anaylsis/](https://github.com/Harshpate7/Covid_Data_Anaylsis))
 
 2. **Zomato EDA (Exploratory Data Analysis)**  
    - **Description**: Conducted EDA on restaurant data, uncovering market trends and customer preferences.  
